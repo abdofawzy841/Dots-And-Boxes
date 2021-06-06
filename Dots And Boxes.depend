@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1576922839 source:d:\csed\programming\dots and boxes\game_logic.c
+	"game.h"
+
+1576922840 d:\csed\programming\dots and boxes\game.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1576922839 source:d:\csed\programming\dots and boxes\main.c
+	"game.h"
+
+1576922840 source:d:\csed\programming\dots and boxes\menus.c
+	"game.h"
+
+1576923124 source:d:\csed\programming\dots and boxes\files_mangment.c
+	"game.h"
+
